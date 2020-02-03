@@ -11,5 +11,7 @@ adjacency list to an incidence matrix,
 incidence matrix to adjacency lists.
 Includes implementation of BFS and DFS.
 
+Also includes report and side by side comparison of all implementations.
+
 
 
